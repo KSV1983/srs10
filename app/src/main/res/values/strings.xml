@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">srs10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="our_contacts">Приложение подготовил Корюков С.В.</string>
+    <string name="go_to_about">О приложении..</string>
+    <string name="about_info">Демонстрация использования фрагментов. Навигация Button.setOnClickListener, а также bottomNavigationView</string>
+    <string name="go_back">Назад..</string>
+</resources>
